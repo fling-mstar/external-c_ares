@@ -1,0 +1,9 @@
+# Copyright (C) 2011 The Android Open Source Project
+# ThirdPartyProject.prop - data for tracking and maintaining third party projects
+
+# Library properties
+name=cares
+version=1.7.4
+homepage=http://c-ares.haxx.se/
+onDevice=true
+isNative=true

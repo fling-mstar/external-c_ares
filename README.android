@@ -1,0 +1,12 @@
+This is c-ares-1.7.4 from http://c-ares.haxx.se/.
+
+* added README.android (this file)
+* added Android.mk
+* added ThirdPartyProject.prop
+* added NOTICE from http://c-ares.haxx.se/license.html
+* added empty MODULE_LICENSE_BSD_LIKE
+* removed vc/ directory (MSVC-only)
+* removed m4/ directory
+* removed all pdfs and .3 man files
+* removed windows_port.c and reference in Makefile.inc
+* removed configure-related files
